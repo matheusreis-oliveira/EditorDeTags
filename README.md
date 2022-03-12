@@ -1,5 +1,5 @@
 # Editor de Tags
-Aplicação console .NET utilizando o banco [EstudosTSQL](https://github.com/matheusreis-oliveira/EstudosTSQL) e conceitos do [EstudosDapper](https://github.com/matheusreis-oliveira/EstudosDapper) e [ProjetoDapper](https://github.com/matheusreis-oliveira/ProjetoDapper) para manipulação.
+Aplicação console .NET utilizando o banco [EstudosTSQL](https://github.com/matheusreis-oliveira/EstudosTSQL) e conceitos que aprendi para criar os repositórios [EstudosDapper](https://github.com/matheusreis-oliveira/EstudosDapper) e [ProjetoDapper](https://github.com/matheusreis-oliveira/ProjetoDapper) para manipulação.
 
 **Utilizando a aplicação console:**
 
